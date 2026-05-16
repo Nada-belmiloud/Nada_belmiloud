@@ -1,4 +1,4 @@
-# Hi, I'm Nada BELMILOUD 👋
+# Hi, I'm Nada BELMILOUD 
 
 AI Engineering Student at ENSIA  
 Full-Stack Developer | AI Enthusiast | Entrepreneur
@@ -6,7 +6,7 @@ Full-Stack Developer | AI Enthusiast | Entrepreneur
 ## About Me
 - Third-year AI student at ENSIA
 - Passionate about AI, web, and mobile development
-- Currently learning Flutter and advanced AI integration
+- Currently learning advanced AI concepts
 - Interested in building innovative and impactful solutions
 
 ## Tech Stack
@@ -28,5 +28,5 @@ Responsive full-stack restaurant ordering website.
 
 ## Contact
 - Email: nada.belmiloud@ensia.edu.dz
-- Portfolio: your-link
-- LinkedIn: your-link
+- Portfolio: https://canva.link/hrkd26ih3rhw5jf
+- LinkedIn: https://www.linkedin.com/in/nada-belmiloud-0b1ab4301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
